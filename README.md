@@ -1,7 +1,7 @@
 
-# 🛠️ Boilerplate Code for a TypegraphQL with Typegoose Express Backend
+## 🛠️ Boilerplate Code for a TypegraphQL with Typegoose Express Backend
 
-## 1. Additional Manual setup
+### 1. Additional Manual setup
 
 #### 1.1 Setup .env file
 
